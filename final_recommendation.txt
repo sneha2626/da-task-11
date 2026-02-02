@@ -1,0 +1,9 @@
+If p-value < 0.05
+The A/B test results show that users exposed to advertisements have a statistically significant higher conversion rate compared to the PSA group.
+At a 95% confidence level, the null hypothesis is rejected.
+It is recommended to roll out the advertisement strategy.
+
+If p-value ≥ 0.05
+Although the advertisement group shows a slightly higher conversion rate, the difference is not statistically significant at the 95% confidence level.
+Therefore, the null hypothesis cannot be rejected.
+It is recommended not to roll out the advertisement strategy and to conduct further testing.
